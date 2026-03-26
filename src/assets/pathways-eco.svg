@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 960">
+  <rect width="1800" height="960" fill="#f6f2e8"/>
+  <rect x="120" y="120" width="1560" height="720" rx="34" fill="#fbfaf5"/>
+  <circle cx="900" cy="480" r="115" fill="#1d4938"/>
+  <circle cx="900" cy="480" r="65" fill="#d8b67d"/>
+  <g fill="#87a992">
+    <circle cx="900" cy="200" r="56"/><circle cx="1180" cy="300" r="56"/><circle cx="1320" cy="480" r="56"/>
+    <circle cx="1180" cy="660" r="56"/><circle cx="900" cy="760" r="56"/><circle cx="620" cy="660" r="56"/>
+    <circle cx="480" cy="480" r="56"/><circle cx="620" cy="300" r="56"/>
+  </g>
+  <g stroke="#cab48a" stroke-width="10">
+    <line x1="900" y1="256" x2="900" y2="364"/><line x1="1135" y1="329" x2="991" y2="410"/>
+    <line x1="1264" y1="480" x2="1018" y2="480"/><line x1="1135" y1="631" x2="991" y2="550"/>
+    <line x1="900" y1="704" x2="900" y2="596"/><line x1="665" y1="631" x2="809" y2="550"/>
+    <line x1="536" y1="480" x2="782" y2="480"/><line x1="665" y1="329" x2="809" y2="410"/>
+  </g>
+</svg>

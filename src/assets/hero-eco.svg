@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 960">
+  <defs>
+    <linearGradient id="sky" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#dff2e6"/>
+      <stop offset="55%" stop-color="#9cc2ae"/>
+      <stop offset="100%" stop-color="#5f8570"/>
+    </linearGradient>
+    <linearGradient id="water" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#6a927d"/>
+      <stop offset="100%" stop-color="#274639"/>
+    </linearGradient>
+  </defs>
+  <rect width="1800" height="960" fill="url(#sky)"/>
+  <circle cx="1370" cy="170" r="120" fill="#fff7d0" opacity="0.7"/>
+  <path d="M0 410 C160 300 280 335 430 250 C620 145 770 250 940 210 C1120 165 1270 250 1435 195 C1580 146 1700 165 1800 130 L1800 530 L0 530 Z" fill="#6f8976"/>
+  <path d="M0 470 C220 360 380 410 540 325 C690 245 870 345 1040 295 C1240 235 1430 325 1800 245 L1800 560 L0 560 Z" fill="#4d6958"/>
+  <rect y="540" width="1800" height="420" fill="url(#water)"/>
+  <g opacity="0.22" stroke="#ffffff">
+    <line x1="0" y1="620" x2="1800" y2="620"/><line x1="0" y1="670" x2="1800" y2="670"/>
+    <line x1="0" y1="720" x2="1800" y2="720"/><line x1="0" y1="770" x2="1800" y2="770"/>
+  </g>
+  <g>
+    <path d="M770 960 L1010 960 L925 760 L855 760 Z" fill="#8d6a47"/>
+    <path d="M860 760 C875 665 892 635 920 635 C948 635 965 665 980 760 Z" fill="#715543"/>
+    <path d="M900 620 C900 580 920 545 945 525 C958 556 970 592 972 620 Z" fill="#e7efe5"/>
+    <circle cx="920" cy="500" r="28" fill="#3a433f"/>
+  </g>
+</svg>
